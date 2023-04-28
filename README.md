@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeSferra&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeSferra&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que utilizo
 <div style="display: inline_block">
